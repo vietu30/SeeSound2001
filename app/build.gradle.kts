@@ -12,7 +12,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.seesound"
-        minSdk = 29 // Android 10
+        minSdk = 24 // Android 10
         targetSdk = 36
         versionCode = 1
         versionName = "1.0"
